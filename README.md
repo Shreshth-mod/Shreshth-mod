@@ -115,26 +115,12 @@ I'm a passionate **Backend Developer** and **AI/ML Enthusiast** with a keen inte
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreshth-mod&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF)
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shreshth-mod&theme=radical&no-frame=true&no-bg=true&row=1&column=6)
-
 ### 💾 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreshth-mod&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
 </div>
 
 ---
-
-## 🌐 GitHub Activity
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreshth-mod&theme=radical&hide_border=true&bg_color=0D1117&line=00D9FF&point=FF006E)](https://github.com/ashutosh00sharma/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -156,11 +142,6 @@ I'm always interested in collaborating on interesting projects and discussing ne
 
 > **"⚡ Building the future with Backend Engineering and AI."**
 
----
-
-### 🎯 My Mission
-
-Transform complex problems into elegant, scalable solutions through innovative backend development and intelligent AI applications.
 
 ---
 
